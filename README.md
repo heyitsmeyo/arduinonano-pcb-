@@ -9,3 +9,10 @@ a custom arduino nano pcb desigb
 
 
 ![image](https://github.com/user-attachments/assets/c3102d71-a77c-4b64-929a-97fe58f82242)
+
+
+
+
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
